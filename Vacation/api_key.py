@@ -1,1 +1,1 @@
-g_key = 'AIzaSyD50gyXXzx-mF3lof_hea82ONrcfbZzHbI'
+g_key = 'YOUR API KEY HERE'
