@@ -1,1 +1,1 @@
-g_key = 'YOUR API KEY HERE'
+g_key = 'API KEY HERE'
